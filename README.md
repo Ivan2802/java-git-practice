@@ -1,2 +1,2 @@
 java-git-practice
-Program Main.java prints text "Hello, GIT!"
+Program Main.java prints text "Hello, GIT!".
