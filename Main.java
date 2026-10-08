@@ -3,5 +3,6 @@ public class Main {
         String name = "Lakotko Ivan";
         String group = "P3106";
         System.err.println("Hello, Git!");
+        System.err.println(name + " " + group);
     }
 }
